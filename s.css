@@ -1,0 +1,50 @@
+ul li {
+    float:left;
+    color:blue;
+    padding:4px
+}
+body {
+    background-size: cover;
+    background-attachment: fixed;
+}
+ul {
+    list-style-type: none;
+    background-color:rgba(25, 159, 168, 0.836);
+    padding-top:14px;
+    padding-bottom: 40px;
+}
+li a {
+    text-decoration: none;
+    padding:10px;
+    font-size:20px
+}
+header {
+    text-align:center;
+    color:blue;
+    font-size:40px
+}
+li a:hover {
+    color:saddlebrown;
+}
+footer {
+    font-size:20px;
+    text-align:center
+}
+.sizing {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+}
+p{
+    text-align:center;
+    width:50%;
+    margin:auto
+}
+table,th,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    width: 500px;
+    text-align: center;
+    margin:auto
+  }
